@@ -29,3 +29,4 @@ def qr():
 if __name__ == "__main__":
    app.run(host='0.0.0.0')
 #izminenie fore job-6543
+#asd11
